@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aleynakenarr
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Python
 
 <!---
 aleynakenarr/aleynakenarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
